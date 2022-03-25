@@ -1,2 +1,3 @@
 # QuestionSolver
-This service is responsible to create and get questions to and from database
+Question solver is a web application that facilitates users to give answers of questions
+and test her knowledge regarding a subject area.
